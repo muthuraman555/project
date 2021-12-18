@@ -1,0 +1,292 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+
+}
+.boxes
+{
+    max-width: 760px;
+   background-color:#242c42;
+   color: white;
+   padding-bottom: 5px;
+   text-align: left;
+
+}
+.boxes h3{
+    margin-left: 20px;
+    padding-top: 10px;
+    font-size: 48px;
+}
+.boxes1
+{
+    max-width: 760px;
+    background-color: #f5f5f5;
+    padding-bottom:4px;
+    padding-top: 2px;
+    text-align: center;
+    margin-top: 2px;
+ 
+}
+.boxes1 h4{
+    text-align: left;
+    margin-left: 30px;
+    font-size: 16px;
+  
+
+}
+.boxes2 h4{
+    text-align: left;
+    font-size: 16px;
+    margin-left: 30px;
+    
+}
+.boxes3 h4{
+    text-align: left;
+    font-size: 16px;
+    margin-left: 30px;
+}
+.boxes2
+{
+    max-width: 760px;
+    background-color: #f5f5f5;
+    padding-bottom:4px;
+    padding-top: 2px;
+    text-align: center;
+    margin-top: 2px;
+ 
+}
+.boxes3
+{
+    max-width: 760px;
+    background-color: #f5f5f5;
+    padding-bottom:4px;
+    padding-top: 2px;
+    text-align: center;
+    margin-top: 2px;
+ 
+}
+
+
+.boxes-child
+{
+    max-width: 758px;
+  padding-bottom: 10px;
+    background-color: rgb(255, 255, 255);
+    border-top:1px solid rgb(61, 60, 60);
+    text-align: left;
+  
+}
+.boxes-child ul{
+    list-style-type: square;
+    line-height: 30px;
+    margin-left: 40px;
+    font-size: 14px;
+    font-weight: 600;
+   
+}
+.boxes2-child ul{
+    list-style-type: square;
+    line-height: 30px;
+    margin-left: 40px;
+    font-size: 14px;
+    font-weight: 600;
+   
+}
+.boxes3-child ul{
+    list-style-type: square;
+    line-height: 30px;
+    margin-left: 40px;
+    font-size: 14px;
+    font-weight: 600;
+   
+}
+.boxes2-child
+{
+    max-width: 758px;
+    padding-bottom: 10px;
+    background-color: rgb(255, 255, 255);
+    border-top:1px solid rgb(61, 60, 60);
+    text-align: left;
+
+
+}
+.boxes3-child
+{
+    max-width: 758px;
+    padding-bottom: 10px;
+    background-color: rgb(255, 255, 255);
+    border-top:1px solid rgb(61, 60, 60);
+    text-align: left;
+
+
+}
+.boxes-child
+{
+display: none;
+}
+.boxes2-child
+{
+display: none;
+}
+.boxes1{
+    display: block;
+}
+.boxes2{
+    display: none;
+}
+.boxes3-child
+{
+display: none;
+}
+.boxes3{
+    display: none;
+}
+.faq
+{
+    width: 1200px;
+    background-color: rgb(17, 14, 54);
+  text-align: center;
+  color: white;
+  padding-bottom: 5px;
+
+
+}
+.f
+{
+text-align: center;
+color: black;
+background-color: rgb(255, 247, 247);
+width: 1200px;
+padding-bottom: 5px;
+margin-top: -8px;
+display: none;
+
+}
+
+.ow1 .next{
+    font-size: 85px;
+    position: absolute;
+    top: 20px;
+    left: -50px;
+    cursor: pointer;
+}
+.ow1 .prev{
+    font-size: 85px;
+    position: absolute;
+    top: 20px;
+    right: -50px;
+    cursor: pointer;
+}
+.ba
+{
+    min-width: 580px;
+    height: 150px;
+    overflow: hidden;
+    justify-content: space-around;
+align-items: center;
+position: relative;
+transition: 0.8s;
+cursor: pointer;
+
+}
+section
+{
+    display:flex;
+    justify-content:space-around;
+align-items: center;
+overflow: hidden;
+;
+
+}
+section::-webkit-scrollbar
+{
+visibility: hidden;
+}
+.boxes img{
+    position: absolute;
+    right: 22px;
+    cursor: pointer;
+    margin-top: -10px;
+}
+.boxes1 img
+{
+    position: absolute;
+    right: 25.5px;
+    margin-top: 10px;
+    width: 15px;
+    cursor: pointer;
+}
+.boxes2 img
+{
+    position: absolute;
+   right: 25.5px;
+    margin-top: 10px;
+    width: 15px;
+    cursor: pointer;
+}
+.boxes3 img
+{
+    position: absolute;
+    right: 25.5px;
+    margin-top: 10px;
+    width: 15px;
+    cursor: pointer;
+}
+.boxes h3{
+    font-size: 20px;
+    }
+.first-row
+{
+    margin-top: 80px;
+}
+.si h2
+{
+    font-size: 30px;
+    color: #49575f;
+}
+@media screen and (max-width: 504px) {
+    .first-row{
+        margin-top: -60px;
+    }
+.POS
+{
+    position: relative;
+    top: -50px;
+}
+.boxes h3{
+font-size: 19px;
+
+}
+.bt .form-submit
+{
+ padding-left: 60px;
+ background-color: red;
+ width: 200px;
+}
+.bt button span
+{
+    margin-left: -50px;
+}
+ .footer-top-wrapper .footer-top-right  button
+{
+    margin-top: 50px;
+}
+.navbar-toggle
+{
+    margin-top: 40px;
+}
+.group-btn-slider .btn-prev 
+{
+    display: none;
+}
+.group-btn-slider .btn-next 
+{
+    display: none;
+}
+
+
+}
+
+
+

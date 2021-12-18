@@ -1,0 +1,338 @@
+$(document).ready(function(){
+    $("#cli").click(function(){
+        $(".boxes1").toggle({
+        },2000);
+})
+})
+// second content
+$(document).ready(function(){
+    $("#cli2").click(function(){
+        $(".boxes2").toggle({
+        },2000);
+})
+})
+// thired content
+$(document).ready(function(){
+    $("#cli3").click(function(){
+        $(".boxes3").toggle({
+        },2000);
+})
+})
+//this is code in collapse module
+
+$(document).ready(function(){
+    $("#calp").click(function(){
+        $("#collapsep").toggle({
+        },2000);
+})
+})
+$(document).ready(function(){
+    $("#cal1").click(function(){
+        $("#collapse1").toggle({
+        },2000);
+})
+})
+$(document).ready(function(){
+    $("#cal2").click(function(){
+        $("#collapse2").toggle({
+        },2000);
+})
+})
+$(document).ready(function(){
+    $("#cal3").click(function(){
+        $("#collapse3").toggle({
+        },2000);
+})
+})
+$(document).ready(function(){
+    $("#cal4").click(function(){
+        $("#collapse4").toggle({
+        },2000);
+})
+})
+$(document).ready(function(){
+    $("#cal5").click(function(){
+        $("#collapse5").toggle({
+        },2000);
+})
+})
+$(document).ready(function(){
+    $("#cal6").click(function(){
+        $("#collapse6").toggle({
+        },2000);
+})
+})
+$(document).ready(function(){
+    $("#cal7").click(function(){
+        $("#collapse7").toggle({
+        },2000);
+})
+})
+$(document).ready(function(){
+    $("#cal8").click(function(){
+        $("#collapse8").toggle({
+        },2000);
+})
+})
+$(document).ready(function(){
+    $("#cal9").click(function(){
+        $("#collapse9").toggle({
+        },2000);
+})
+})
+$(document).ready(function(){
+    $("#cal10").click(function(){
+        $("#collapse10").toggle({
+        },2000);
+})
+})
+$(document).ready(function(){
+    $("#cal11").click(function(){
+        $("#collapse11").toggle({
+        },2000);
+})
+})
+$(document).ready(function(){
+    $("#cal12").click(function(){
+        $("#collapse12").toggle({
+        },2000);
+})
+})
+$(document).ready(function(){
+    $("#cal13").click(function(){
+        $("#collapse13").toggle({
+        },2000);
+})
+})
+$(document).ready(function(){
+    $("#cal14").click(function(){
+        $("#collapse14").toggle({
+        },2000);
+})
+})
+$(document).ready(function(){
+    $("#cal15").click(function(){
+        $("#collapse15").toggle({
+        },2000);
+})
+})
+$(document).ready(function(){
+    $("#cal16").click(function(){
+        $("#collapse16").toggle({
+        },2000);
+})
+})
+$(document).ready(function(){
+    $("#cal17").click(function(){
+        $("#collapse17").toggle({
+        },2000);
+})
+})
+$(document).ready(function(){
+    $("#cal18").click(function(){
+        $("#collapse18").toggle({
+        },2000);
+})
+})
+$(document).ready(function(){
+    $("#cal19").click(function(){
+        $("#collapse19").toggle({
+        },2000);
+})
+})
+$(document).ready(function(){
+    $("#cal20").click(function(){
+        $("#collapse20").toggle({
+        },2000);
+})
+})
+$(document).ready(function(){
+    $("#cal21").click(function(){
+        $("#collapse21").toggle({
+        },2000);
+})
+})
+$(document).ready(function(){
+    $("#cal22").click(function(){
+        $("#collapse22").toggle({
+        },2000);
+})
+})
+$(document).ready(function(){
+    $("#cal23").click(function(){
+        $("#collapse23").toggle({
+        },2000);
+})
+})
+$(document).ready(function(){
+    $("#cal24").click(function(){
+        $("#collapse24").toggle({
+        },2000);
+})
+})
+$(document).ready(function(){
+    $("#cal25").click(function(){
+        $("#collapse25").toggle({
+        },2000);
+})
+})
+//this is code in collapse module2
+$(document).ready(function(){
+    $("#val").click(function(){
+        $("#colla").toggle({
+        },2000);
+})
+})
+$(document).ready(function(){
+    $("#val1").click(function(){
+        $("#colla1").toggle({
+        },2000);
+})
+})
+$(document).ready(function(){
+    $("#val2").click(function(){
+        $("#colla2").toggle({
+        },2000);
+})
+})
+$(document).ready(function(){
+    $("#val3").click(function(){
+        $("#colla3").toggle({
+        },2000);
+})
+})
+$(document).ready(function(){
+    $("#val4").click(function(){
+        $("#colla4").toggle({
+        },2000);
+})
+})
+$(document).ready(function(){
+    $("#val5").click(function(){
+        $("#colla5").toggle({
+        },2000);
+})
+})
+$(document).ready(function(){
+    $("#val6").click(function(){
+        $("#colla6").toggle({
+        },2000);
+})
+})
+$(document).ready(function(){
+    $("#val7").click(function(){
+        $("#colla7").toggle({
+        },2000);
+})
+})
+$(document).ready(function(){
+    $("#val8").click(function(){
+        $("#colla8").toggle({
+        },2000);
+})
+})
+$(document).ready(function(){
+    $("#val9").click(function(){
+        $("#colla9").toggle({
+        },2000);
+})
+})
+$(document).ready(function(){
+    $("#val10").click(function(){
+        $("#colla10").toggle({
+        },2000);
+})
+})
+$(document).ready(function(){
+    $("#val11").click(function(){
+        $("#colla11").toggle({
+        },2000);
+})
+})
+$(document).ready(function(){
+    $("#val12").click(function(){
+        $("#colla12").toggle({
+        },2000);
+})
+})
+$(document).ready(function(){
+    $("#val13").click(function(){
+        $("#colla13").toggle({
+        },2000);
+})
+})
+$(document).ready(function(){
+    $("#val114").click(function(){
+        $("#colla14").toggle({
+        },2000);
+})
+})
+
+//this is code in collapse module3
+
+$(document).ready(function(){
+    $("#vai1").click(function(){
+        $("#collap1").toggle({
+        },2000);
+})
+})
+$(document).ready(function(){
+    $("#vai2").click(function(){
+        $("#collap2").toggle({
+        },2000);
+})
+})
+$(document).ready(function(){
+    $("#vai3").click(function(){
+        $("#collap3").toggle({
+        },2000);
+})
+})
+$(document).ready(function(){
+    $("#vai4").click(function(){
+        $("#collap4").toggle({
+        },2000);
+})
+})
+$(document).ready(function(){
+    $("#vai5").click(function(){
+        $("#collap5").toggle({
+        },2000);
+})
+})
+$(document).ready(function(){
+    $("#vai6").click(function(){
+        $("#collap6").toggle({
+        },2000);
+})
+})
+$(document).ready(function(){
+    $("#vai7").click(function(){
+        $("#collap7").toggle({
+        },2000);
+})
+})
+$(document).ready(function(){
+    $("#vai8").click(function(){
+        $("#collap8").toggle({
+        },2000);
+})
+})
+$(document).ready(function(){
+    $("#vai9").click(function(){
+        $("#collap9").toggle({
+        },2000);
+})
+})
+$(document).ready(function(){
+    $("#vai10").click(function(){
+        $("#collap10").toggle({
+        },2000);
+})
+})
+$(document).ready(function(){
+    $("#vai11").click(function(){
+        $("#collap11").toggle({
+        },2000);
+})
+})
